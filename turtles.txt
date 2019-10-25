@@ -1,0 +1,16 @@
+*Python Starndard Library*
+
+Changing Turtles Shape
+https://docs.python.org/2/library/turtle.html#turtle.shape
+
+Changing Turtles Color
+https://docs.python.org/2/library/turtle.html#turtle.color
+
+Changing Turtles speed
+https://docs.python.org/2/library/turtle.html#turtle.speed
+
+Turtles Documentation
+https://docs.python.org/2/library/turtle.html#turtle-methods
+
+
+        
